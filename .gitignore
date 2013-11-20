@@ -1,7 +1,4 @@
 *.class
-*.dex
-hg/*
-*~
 
 #eclispe
 
@@ -30,13 +27,5 @@ local.properties
 jarlist.cache
 
 *.jar
-antlog
-
-resources.ap_
-*.apk
-
-libs/jformica/*/build
-libs/**/.gradle
-
-Cyclismo/Cyclismo/gen/*
-Cyclimso/Cyclismo/build/*
+*.war
+*.ear
