@@ -1,0 +1,42 @@
+*.class
+*.dex
+hg/*
+*~
+
+#eclispe
+
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PDT-specific
+.buildpath
+
+jarlist.cache
+
+*.jar
+antlog
+
+resources.ap_
+*.apk
+
+libs/jformica/*/build
+libs/**/.gradle
+
+Cyclismo/Cyclismo/gen/*
+Cyclimso/Cyclismo/build/*
